@@ -25,7 +25,8 @@ export default function App() {
 
           <View className="relative mt-5">
             <Text className="text-3xl text-white font-bold text-center">
-              Discover Endless Posibilities with {''}
+              Discover Endless{"\n"}
+              Posibilities with{" "}
               <Text className="text-secondary-200">Aora</Text>
             </Text>
 
@@ -37,7 +38,8 @@ export default function App() {
           </View>
 
           <Text className="text-sm font-pregular text-gray-100 mt-7 text-center">
-            Where Creativity Meets Innovation: Embark on a Journey of Limitless Exploration with Aora
+            Where Creativity Meets Innovation: Embark on a Journey of Limitless 
+            Exploration with Aora
           </Text>
 
           <CustomButton
